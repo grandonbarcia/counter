@@ -1,0 +1,34 @@
+
+
+.counter {
+  /*width:25%;*/
+  /*height:25%;*/
+  /*margin-left:40%;*/
+  margin-top:20%;
+}
+
+@media (min-width: 300px) {
+  .containter {
+    text-align:center;
+    margin-top:60%;
+  }
+}
+
+@media (min-width: 576px) {
+  .containter {
+    text-align:center;
+    margin-top:30%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .containter {
+    text-align:right;
+    margin-top:0%;
+
+  }
+}
+
+.containter {
+  text-align:center;
+}
